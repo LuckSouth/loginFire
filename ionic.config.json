@@ -1,0 +1,7 @@
+{
+  "name": "fireAuth",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
